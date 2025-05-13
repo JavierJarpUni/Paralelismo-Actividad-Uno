@@ -2,6 +2,10 @@
 
 This project demonstrates the performance difference between **sequential** and **parallel** processing in Python using the `multiprocessing` module. The program calculates the **sum of squares** of a large list of integers both sequentially and using multiple processes.
 
+## Video
+
+👉 [Link](https://drive.google.com/file/d/1bxTIxocg0D06LHuyQdBf1AUXw3c6t1Dc/view?usp=sharing)
+
 ## Features
 
 - Sequential computation of sum of squares
